@@ -12,11 +12,11 @@ Durante as aulas foram efetuado o estudo de reactjs, aprendi algumas coisas como
 reactdom, webpack. 
 
 **********************************************************************************************************
-Linguagem
+🌱 Linguagem
 
-React
+✅ React
 
-Components
+✅ Components
 
 
 
