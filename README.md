@@ -5,7 +5,7 @@
 
 
 **********************************************************************************************************
-Projeto
+🚀 Projeto
 
 
 Durante as aulas foram efetuado o estudo de reactjs, aprendi algumas coisas como pasta components, jsx,
